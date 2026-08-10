@@ -1,0 +1,349 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696.60 595.34" width="460" role="img" aria-label="Animated ASCII portrait">
+<style>.ascii { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 12.9px; font-weight: 400; fill: #111111; white-space: pre; }</style>
+<defs>
+<clipPath id="row0">
+<rect x="0" y="0.00" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.00s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row1">
+<rect x="0" y="13.55" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.09s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row2">
+<rect x="0" y="27.09" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.18s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row3">
+<rect x="0" y="40.64" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.27s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row4">
+<rect x="0" y="54.18" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.36s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row5">
+<rect x="0" y="67.73" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.45s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row6">
+<rect x="0" y="81.27" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.54s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row7">
+<rect x="0" y="94.82" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.63s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row8">
+<rect x="0" y="108.36" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.72s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row9">
+<rect x="0" y="121.91" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.81s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row10">
+<rect x="0" y="135.45" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.90s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row11">
+<rect x="0" y="149.00" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="0.99s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row12">
+<rect x="0" y="162.54" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.08s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row13">
+<rect x="0" y="176.09" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.17s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row14">
+<rect x="0" y="189.63" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.26s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row15">
+<rect x="0" y="203.18" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.35s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row16">
+<rect x="0" y="216.72" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.44s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row17">
+<rect x="0" y="230.27" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.53s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row18">
+<rect x="0" y="243.81" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.62s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row19">
+<rect x="0" y="257.36" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.71s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row20">
+<rect x="0" y="270.90" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.80s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row21">
+<rect x="0" y="284.45" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.89s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row22">
+<rect x="0" y="297.99" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="1.98s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row23">
+<rect x="0" y="311.54" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.07s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row24">
+<rect x="0" y="325.08" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.16s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row25">
+<rect x="0" y="338.63" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.25s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row26">
+<rect x="0" y="352.17" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.34s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row27">
+<rect x="0" y="365.72" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.43s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row28">
+<rect x="0" y="379.26" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.52s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row29">
+<rect x="0" y="392.81" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.61s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row30">
+<rect x="0" y="406.35" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.70s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row31">
+<rect x="0" y="419.90" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.79s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row32">
+<rect x="0" y="433.44" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.88s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row33">
+<rect x="0" y="446.99" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="2.97s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row34">
+<rect x="0" y="460.53" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.06s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row35">
+<rect x="0" y="474.08" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.15s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row36">
+<rect x="0" y="487.62" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.24s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row37">
+<rect x="0" y="501.17" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.33s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row38">
+<rect x="0" y="514.71" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.42s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row39">
+<rect x="0" y="528.26" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.51s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row40">
+<rect x="0" y="541.80" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.60s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row41">
+<rect x="0" y="555.35" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.69s" fill="freeze"/>
+</rect>
+</clipPath>
+<clipPath id="row42">
+<rect x="0" y="568.89" width="0" height="19.35">
+<animate attributeName="width" from="0" to="696.60" dur="0.75s" begin="3.78s" fill="freeze"/>
+</rect>
+</clipPath>
+</defs>
+<g clip-path="url(#row0)">
+<text class="ascii" x="0" y="12.90" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row1)">
+<text class="ascii" x="0" y="26.45" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row2)">
+<text class="ascii" x="0" y="39.99" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row3)">
+<text class="ascii" x="0" y="53.54" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row4)">
+<text class="ascii" x="0" y="67.08" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row5)">
+<text class="ascii" x="0" y="80.63" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row6)">
+<text class="ascii" x="0" y="94.17" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row7)">
+<text class="ascii" x="0" y="107.72" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row8)">
+<text class="ascii" x="0" y="121.26" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row9)">
+<text class="ascii" x="0" y="134.81" xml:space="preserve">                                                                                          </text>
+</g>
+<g clip-path="url(#row10)">
+<text class="ascii" x="0" y="148.35" xml:space="preserve">                                          :-=-.                                           </text>
+</g>
+<g clip-path="url(#row11)">
+<text class="ascii" x="0" y="161.90" xml:space="preserve">                                        -s%%%%#c:                                         </text>
+</g>
+<g clip-path="url(#row12)">
+<text class="ascii" x="0" y="175.44" xml:space="preserve">                                       =%%%%%%%%%=                                        </text>
+</g>
+<g clip-path="url(#row13)">
+<text class="ascii" x="0" y="188.99" xml:space="preserve">                                       +ccccssss%+                                        </text>
+</g>
+<g clip-path="url(#row14)">
+<text class="ascii" x="0" y="202.53" xml:space="preserve">                                       -*ss*csc+*+                                        </text>
+</g>
+<g clip-path="url(#row15)">
+<text class="ascii" x="0" y="216.08" xml:space="preserve">                                       :+**++*+++:                                        </text>
+</g>
+<g clip-path="url(#row16)">
+<text class="ascii" x="0" y="229.62" xml:space="preserve">                                       `*cc****c*-`.                                      </text>
+</g>
+<g clip-path="url(#row17)">
+<text class="ascii" x="0" y="243.17" xml:space="preserve">                                        -sc+*css#s##c.                                    </text>
+</g>
+<g clip-path="url(#row18)">
+<text class="ascii" x="0" y="256.71" xml:space="preserve">                                      .+s#scccs##%ss#:                                    </text>
+</g>
+<g clip-path="url(#row19)">
+<text class="ascii" x="0" y="270.25" xml:space="preserve">                                  .`:-+s%%%#s#%%%%%%c+=-:`                                </text>
+</g>
+<g clip-path="url(#row20)">
+<text class="ascii" x="0" y="283.80" xml:space="preserve">                                .-*c**cc#%%%%%%%#sc++**cc*-                               </text>
+</g>
+<g clip-path="url(#row21)">
+<text class="ascii" x="0" y="297.35" xml:space="preserve">                               `*##sssss#%###cs#sc***cc##sc=.                             </text>
+</g>
+<g clip-path="url(#row22)">
+<text class="ascii" x="0" y="310.89" xml:space="preserve">                              .*#%%#scscs*+*+*=c+==*ccs#%#sc=.                            </text>
+</g>
+<g clip-path="url(#row23)">
+<text class="ascii" x="0" y="324.44" xml:space="preserve">                              =s%%%%s+*#*++++*+s*==*#s#%%##sc=                            </text>
+</g>
+<g clip-path="url(#row24)">
+<text class="ascii" x="0" y="337.98" xml:space="preserve">                             `c#%%%%ss#%#s===c##sc**s#%%%%#ss*`                           </text>
+</g>
+<g clip-path="url(#row25)">
+<text class="ascii" x="0" y="351.53" xml:space="preserve">                             +s%%%%%##s***+***ccc#####%%%%%#sc=                           </text>
+</g>
+<g clip-path="url(#row26)">
+<text class="ascii" x="0" y="365.07" xml:space="preserve">                            -s#%%%@%##c***+*++***s#s##%%%%%#sc*`                          </text>
+</g>
+<g clip-path="url(#row27)">
+<text class="ascii" x="0" y="378.62" xml:space="preserve">                            *#%%%%@%%#############sss%%=*%%%%%s=                          </text>
+</g>
+<g clip-path="url(#row28)">
+<text class="ascii" x="0" y="392.16" xml:space="preserve">                           .c#%%@@%%%############ssss%%=-%%#sss+                          </text>
+</g>
+<g clip-path="url(#row29)">
+<text class="ascii" x="0" y="405.71" xml:space="preserve">                           `s#%%@@%%%############sss#%%ss#ss#s*.                          </text>
+</g>
+<g clip-path="url(#row30)">
+<text class="ascii" x="0" y="419.25" xml:space="preserve">                           :s#%%@%%%%%%%##########s%%%##sss##=.                           </text>
+</g>
+<g clip-path="url(#row31)">
+<text class="ascii" x="0" y="432.80" xml:space="preserve">                           -#%%%@%%#ss#%%##########%#ss####c`                             </text>
+</g>
+<g clip-path="url(#row32)">
+<text class="ascii" x="0" y="446.34" xml:space="preserve">                           -#%%%%s%%%#sss############%###*:                               </text>
+</g>
+<g clip-path="url(#row33)">
+<text class="ascii" x="0" y="459.89" xml:space="preserve">                           -#%%%ss%%%%%%##########%%%%%#:                                 </text>
+</g>
+<g clip-path="url(#row34)">
+<text class="ascii" x="0" y="473.43" xml:space="preserve">                           -#%%%css#%%%%%%%%%#####%%%%s+.                                 </text>
+</g>
+<g clip-path="url(#row35)">
+<text class="ascii" x="0" y="486.98" xml:space="preserve">                           .*ccccssc*css#%%%%%%####sc**+-                                 </text>
+</g>
+<g clip-path="url(#row36)">
+<text class="ascii" x="0" y="500.52" xml:space="preserve">                            -=*c##sc****ccc*ccssssssccc*=                                 </text>
+</g>
+<g clip-path="url(#row37)">
+<text class="ascii" x="0" y="514.07" xml:space="preserve">                            :*+*c##ccc**csscss#ssccccccc+                                 </text>
+</g>
+<g clip-path="url(#row38)">
+<text class="ascii" x="0" y="527.61" xml:space="preserve">                            -*++c%#ssscccs###ssccccccccs+                                 </text>
+</g>
+<g clip-path="url(#row39)">
+<text class="ascii" x="0" y="541.16" xml:space="preserve">                            .*+*c##scccccs#%%#sssscccccc=                                 </text>
+</g>
+<g clip-path="url(#row40)">
+<text class="ascii" x="0" y="554.70" xml:space="preserve">                             .:=csc***cccss%%####sc+=+*c-                                 </text>
+</g>
+<g clip-path="url(#row41)">
+<text class="ascii" x="0" y="568.25" xml:space="preserve">                               .cs*+==**cs#+-%%#sc*=--=+:                                 </text>
+</g>
+<g clip-path="url(#row42)">
+<text class="ascii" x="0" y="581.79" xml:space="preserve">                                =c*=---=*s*. =%%#sc+=--+`                                 </text>
+</g>
+</svg>
