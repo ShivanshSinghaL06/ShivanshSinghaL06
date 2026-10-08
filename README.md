@@ -2,7 +2,7 @@
 <!-- ██  SHIVANSH SINGHAL | @ShivanshSinghaL06 | RETRO TERMINAL README   ██ -->
 <!-- ███████████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003B00,100:00FF41&height=150&section=header&text=SHIVANSH-OS&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20GIS&descSize=16&descAlignY=55&descColor=00FF41" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003B00,100:00FF41&height=150&section=header&text=SHIVANSH%20SINGHAL&fontSize=40&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20GIS&descSize=16&descAlignY=55&descColor=00FF41" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!--                  BIOS POST — BOOT SEQUENCE               -->
@@ -13,7 +13,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   SHIVANSH-OS  v1.0.26  [BIOS ROM v1.0]                          ║
+║   SHIVANSH SINGHAL  v1.0.26  [BIOS ROM v1.0]                     ║
 ║   Copyright (C) 1999-2026  Shivansh Singhal. All Rights Res.     ║
 ║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
@@ -77,7 +77,6 @@
 ║  CLASS            ║  Software Engineer                           ║
 ║  ROLE             ║  Full-Stack · AI · GIS Automation            ║
 ║  BASE             ║  Brisbane, QLD, Australia                    ║
-║  VISA             ║  Temporary Graduate Visa 485                 ║
 ║  SHELL            ║  Git + Docker + Linux                        ║
 ║  UPTIME           ║  2+ years shipping                           ║
 ║  STATUS           ║  ● ONLINE — SGME, Brisbane                   ║
@@ -118,7 +117,7 @@
 | **Specialty**  | Multi-agent LLM systems · RAG · React / Next.js · FastAPI · QGIS                        |
 | **Philosophy** | _Own the feature end to end, from requirements through deployment._                     |
 | **Education**  | BCompSc, RMIT · minor in Data Science & Blockchain · Feb 2023 – Dec 2025                |
-| **Based**      | Brisbane, QLD · Temporary Graduate Visa 485                                             |
+| **Based**      | Brisbane, QLD                                                                           |
 
 </div>
 
@@ -127,12 +126,12 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   > Software Engineer, full-stack, AI, and GIS automation            │
-│   > 2+ years delivering production web apps and APIs                 │
-│   > Owns features from requirements through deployment               │
-│   > SGME, Brisbane — multi-agent QA, CRM, and QGIS tooling           │
-│   > RMIT Computer Science, Data Science & Blockchain minor           │
-│   > Temporary Graduate Visa 485 · open to roles in Australia         │
+│   > Shivansh Singhal, Software Engineer in Brisbane                  │
+│   > Production full-stack, AI/LLM, and GIS automation                │
+│   > 9-agent document QA on FastAPI, Redis, AWS Bedrock               │
+│   > Multi-tenant CRM in React, Next.js, and PostgreSQL               │
+│   > QGIS automation, LiDAR pipelines, landform models                │
+│   > RMIT Computer Science, Data Science & Blockchain                 │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -402,42 +401,6 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshSinghaL06&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=5&langs_count=10" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24%20trophy%20--display%20--all)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShivanshSinghaL06&theme=matrix&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=450&height=30&lines=%24%20git%20log%20--graph%20--oneline%20--all)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshSinghaL06&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&title_color=00FF41&custom_title=COMMIT+ACTIVITY+GRAPH" width="100%" alt="Activity Graph" />
 
 </div>
 
