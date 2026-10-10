@@ -13,6 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Save current snake
+        uses: actions/checkout@v6
+        with:
+          ref: output
+          path: previous
+        continue-on-error: true
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,6 +27,33 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Keep the saved snake unless contributions grew
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -eu
+          BASELINE=$(gh api -H "Accept: application/vnd.github.raw" "repos/${{ github.repository }}/contents/saved-graph/contribution-count.txt" | tr -cd '0-9')
+          FROM=$(date -u -d "365 days ago" +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+          CURRENT=$(gh api graphql \
+            -f query='query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions}}}}' \
+            -f login="${{ github.repository_owner }}" \
+            -f from="$FROM" \
+            -f to="$TO" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' \
+            || true)
+
+          if [ -z "${CURRENT}" ] || [ "$CURRENT" -lt $((BASELINE - 25)) ]; then
+            echo "Keeping the saved snake. Live count: ${CURRENT:-unavailable}. Saved count: $BASELINE."
+            if [ -f previous/github-contribution-grid-snake.svg ]; then
+              mkdir -p dist
+              cp previous/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
+              cp previous/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake-dark.svg
+            fi
+          else
+            echo "Saving the new snake. Live count: $CURRENT. Previous count: $BASELINE."
+          fi
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v5

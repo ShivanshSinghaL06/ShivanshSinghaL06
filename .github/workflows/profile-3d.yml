@@ -14,10 +14,45 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v6
+
+      - name: Remember the saved graph
+        run: |
+          mkdir -p /tmp/graph-backup
+          cp -a profile-3d-contrib /tmp/graph-backup/profile-3d-contrib
+          cp saved-graph/contribution-count.txt /tmp/graph-backup/count.txt
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Keep the saved graph unless contributions grew
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -eu
+          BASELINE=$(tr -cd '0-9' < /tmp/graph-backup/count.txt)
+          FROM=$(date -u -d "365 days ago" +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+          CURRENT=$(gh api graphql \
+            -f query='query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions}}}}' \
+            -f login="${{ github.repository_owner }}" \
+            -f from="$FROM" \
+            -f to="$TO" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' \
+            || true)
+
+          if [ -z "${CURRENT}" ] || [ "$CURRENT" -lt $((BASELINE - 25)) ]; then
+            echo "Keeping the saved graph. Live count: ${CURRENT:-unavailable}. Saved count: $BASELINE."
+            rm -rf profile-3d-contrib
+            cp -a /tmp/graph-backup/profile-3d-contrib profile-3d-contrib
+          else
+            echo "Saving the new graph. Live count: $CURRENT. Previous count: $BASELINE."
+            printf '%s\n' "$CURRENT" > saved-graph/contribution-count.txt
+            rm -rf saved-graph/profile-3d-contrib
+            cp -a profile-3d-contrib saved-graph/profile-3d-contrib
+          fi
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
