@@ -391,8 +391,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivanshSinghaL06&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&border_radius=5&include_all_commits=true&count_private=true&hide_border=false" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ShivanshSinghaL06&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivanshSinghaL06&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&border_radius=5&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=14400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ShivanshSinghaL06&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&cache_seconds=14400" />
 
 </div>
 
@@ -400,7 +400,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshSinghaL06&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=5&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshSinghaL06&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=5&langs_count=10&cache_seconds=14400" />
 
 </div>
 
@@ -566,13 +566,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshSinghaL06&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshSinghaL06&theme=github_dark&cache_seconds=14400" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivanshSinghaL06&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivanshSinghaL06&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivanshSinghaL06&theme=github_dark&cache_seconds=14400" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivanshSinghaL06&theme=github_dark&cache_seconds=14400" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivanshSinghaL06&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivanshSinghaL06&theme=github_dark&utcOffset=10" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivanshSinghaL06&theme=github_dark&cache_seconds=14400" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivanshSinghaL06&theme=github_dark&utcOffset=10&cache_seconds=14400" width="49%" />
 
 </div>
 
